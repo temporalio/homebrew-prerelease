@@ -1,4 +1,8 @@
-# Temporalio Prerelease
+# Temporal Pre-Release Tap
+
+This [tap](https://docs.brew.sh/Taps) contains homebrew formulae
+for [pre-release](https://docs.temporal.io/evaluate/development-production-features/release-stages#pre-release)
+software from Temporalio.
 
 ## How do I install these formulae?
 
