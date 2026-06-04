@@ -12,6 +12,10 @@ class TemporalCloud < Formula
     regex(/^v?(\d+(?:\.\d+)+)$/i)
   end
 
+  bottle do
+    rebuild 1
+  end
+
   depends_on "go" => :build
   depends_on "temporal"
 
