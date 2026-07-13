@@ -2,8 +2,8 @@ class TemporalCloud < Formula
   desc "Cloud plugin for the Temporal CLI (Pre-release)"
   homepage "https://github.com/temporalio/cloud-cli"
 
-  url "https://github.com/temporalio/cloud-cli/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "bb8cef1adf973fcd92a6a03fd9c5962a9658dd116188f92df3c1bf041774ee34"
+  url "https://github.com/temporalio/cloud-cli/archive/refs/tags/v0.0.2.tar.gz"
+  sha256 "69b258270c1988a181510b17afaf3d0b502ee9d7cfddfe880383e19e292d1f93"
   license "MIT"
   head "https://github.com/temporalio/cloud-cli.git", branch: "main"
 
